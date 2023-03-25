@@ -1,3 +1,6 @@
+// CSS
+import './Navbar.css'
+
 // Router
 import { Link } from 'react-router-dom'
 
