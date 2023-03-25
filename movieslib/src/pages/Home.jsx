@@ -1,3 +1,7 @@
+// CSS
+import './MoviesGrid.css'
+
+// Hooks
 import { useState, useEffect } from 'react'
 
 const moviesURL = import.meta.env.VITE_API
