@@ -12,8 +12,6 @@ import MovieCard from '../components/MovieCard'
 const searchUrl = import.meta.env.VITE_SEARCH
 const apiKey = import.meta.env.VITE_API_KEY
 
-console.log(apiKey)
-
 const Search = () => {
   const [ searchParams ] = useSearchParams()
 
